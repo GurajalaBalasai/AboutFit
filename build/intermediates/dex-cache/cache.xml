@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/balasai/FinalApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/balasai/FinalApplication/app/build/intermediates/pre-dexed/debug/classes-263177000f5963b633926ea20d57d128861d3a8c.jar" />
+    </item>
+    <item
+        jar="/home/balasai/FinalApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/balasai/FinalApplication/app/build/intermediates/pre-dexed/debug/classes-6d5b3070c2ef0fc039318d13246f3ffa56036c5b.jar" />
+    </item>
+    <item
+        jar="/home/balasai/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/balasai/FinalApplication/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-e5a44905db31aee1cf25eaf2f7a07fc43d75cc3f.jar" />
+    </item>
+    <item
+        jar="/home/balasai/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/balasai/FinalApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d3d2afb7dc9c7a965e62edfa07501ea00329edb2.jar" />
+    </item>
+    <item
+        jar="/home/balasai/FinalApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/balasai/FinalApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8cbe823815a24228d137d26ace0fa9b2dde35c29.jar" />
+    </item>
+    <item
+        jar="/home/balasai/FinalApplication/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/balasai/FinalApplication/app/build/intermediates/pre-dexed/debug/classes-849cd0e23720507cf096b8f683dac530d0a3343f.jar" />
+    </item>
+
+</items>
